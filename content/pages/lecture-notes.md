@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides the course lecture notes, information about lecture
+  topics, and references.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: a38d3a88-c78f-7b34-499a-08dcc287d180
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Part A – Chernozhukov
@@ -34,7 +40,7 @@ L1
 Methods for nonlinear models: maximum likelihood estimation (MLE), generalized method of moments (GMM), minimum distance, extremum
 {{< tdclose >}}
 {{< tdopen >}}
-Basic overview of some principal methods ([PDF]({{< baseurl >}}/resources/lecture01))
+Basic overview of some principal methods ({{% resource_link 0b7c3f5c-e964-2cc7-f603-d6404a8975e5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,15 +54,15 @@ Large sample theory, asymptotic theory, discrete choice, censoring, and sample s
 {{< tdopen >}}
 
 
-Consistency for extremum estimators ([PDF - 3.6 MB]({{< baseurl >}}/resources/lecture02))
+Consistency for extremum estimators ({{% resource_link 065f6c53-a142-95dc-d7e9-0cf281bf902f "PDF - 3.6 MB" %}})
 
 Consistency (cont.)
 
-Asymptotic distribution of extremum estimators ([PDF]({{< baseurl >}}/resources/lecture03))
+Asymptotic distribution of extremum estimators ({{% resource_link ecddf2be-6f18-093d-17db-2c76d8729f1d "PDF" %}})
 
-Asymptotic distribution of GMM/nonlinear instrumental variables (IV) ([PDF]({{< baseurl >}}/resources/lecture04))
+Asymptotic distribution of GMM/nonlinear instrumental variables (IV) ({{% resource_link 6d7b3de8-4c38-4c78-b306-d896d9f55d9c "PDF" %}})
 
-Two-step estimators, efficiency, one-step estimators ([PDF]({{< baseurl >}}/resources/lecture05))
+Two-step estimators, efficiency, one-step estimators ({{% resource_link b2601390-0fb9-492b-496e-6beb6a60ed2e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -72,9 +78,9 @@ Bootstrap, subsampling, and finite-sample methods
 {{< tdopen >}}
 
 
-Bootstrap and finite sample inference ([PDF]({{< baseurl >}}/resources/lecture06))
+Bootstrap and finite sample inference ({{% resource_link d6bfdd25-4dee-bcae-ae7a-3470eac8953c "PDF" %}})
 
-Consistency and accuracy of bootstrap ([PDF]({{< baseurl >}}/resources/lecture07))
+Consistency and accuracy of bootstrap ({{% resource_link 1d284aa8-e830-19d1-f113-23d3074af2a1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -90,9 +96,9 @@ Quantile regression (QR) and distributional methods
 {{< tdopen >}}
 
 
-An introduction to quantile methods ([PDF]({{< baseurl >}}/resources/lecture08))
+An introduction to quantile methods ({{% resource_link ff4cecb8-3558-c6e1-cf44-575ff9f9a7f1 "PDF" %}})
 
-Quantile methods 2: equivariance, GMM for quantiles, endogenous models, empirical examples ([PDF]({{< baseurl >}}/resources/lecture09))
+Quantile methods 2: equivariance, GMM for quantiles, endogenous models, empirical examples ({{% resource_link e8cc9190-5cb2-3de8-b95a-084688b65da0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -106,7 +112,7 @@ L10-L11
 Bayesian and quasi-Bayesian methods (from a classical view)
 {{< tdclose >}}
 {{< tdopen >}}
-Bayesian and quasi-Bayesian methods ([PDF]({{< baseurl >}}/resources/lecture10_11))
+Bayesian and quasi-Bayesian methods ({{% resource_link 5065c439-b123-602d-916e-d66e724ee841 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +124,7 @@ L12
 Bounds and partial identification
 {{< tdclose >}}
 {{< tdopen >}}
-Set estimation and inference in moment condition models ([PDF]({{< baseurl >}}/resources/lecture12))
+Set estimation and inference in moment condition models ({{% resource_link 664aaa38-a886-e642-327a-06ba00f9b04c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,11 +160,11 @@ GMM: identification, estimation, testing, bias, selecting moments
 {{< tdopen >}}
 
 
-Generalized method of moments notes ([PDF]({{< baseurl >}}/resources/notes_gmm))
+Generalized method of moments notes ({{% resource_link 2d9ba545-c27e-e694-2947-ed6911e333ee "PDF" %}})
 
-GMM estimation and testing slides ([PDF]({{< baseurl >}}/resources/lec13_gmm))
+GMM estimation and testing slides ({{% resource_link 33f528b5-676b-260d-0bad-eab8b09e9b0c "PDF" %}})
 
-GMM estimation and testing II slides ([PDF]({{< baseurl >}}/resources/lec14_gmm))
+GMM estimation and testing II slides ({{% resource_link a9eb3886-a8a3-76fb-3f09-4c981d5097e9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -186,11 +192,11 @@ Nonparametric estimation
 {{< tdopen >}}
 
 
-Nonparametric and semiparametric estimation notes ([PDF]({{< baseurl >}}/resources/notes_nonsemi))
+Nonparametric and semiparametric estimation notes ({{% resource_link 655fcef1-b419-2f40-d80e-dea3c1dd85ce "PDF" %}})
 
-Nonparametric regression slides ([PDF]({{< baseurl >}}/resources/lec16_17_nonpar))
+Nonparametric regression slides ({{% resource_link 3710430f-adc1-956b-5285-dc54fd395475 "PDF" %}})
 
-Locally linear regression notes ([PDF]({{< baseurl >}}/resources/local_lin_reg))
+Locally linear regression notes ({{% resource_link 40cac15c-5fb9-8b5b-f72b-8cfaab90c273 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -206,9 +212,9 @@ Semiparametric estimation
 {{< tdopen >}}
 
 
-Nonparametric and semiparametric estimation notes ([PDF]({{< baseurl >}}/resources/notes_nonsemi))
+Nonparametric and semiparametric estimation notes ({{% resource_link 655fcef1-b419-2f40-d80e-dea3c1dd85ce "PDF" %}})
 
-Semiparametric models and estimators slides ([PDF]({{< baseurl >}}/resources/lec18_19_semipar))
+Semiparametric models and estimators slides ({{% resource_link e7608b3d-f3e2-e73f-6019-7456243c4f4c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -224,11 +230,11 @@ Treatment effects
 {{< tdopen >}}
 
 
-Treatment effects notes ([PDF]({{< baseurl >}}/resources/notes_treat))
+Treatment effects notes ({{% resource_link 70826c5f-a3ca-798b-2ffc-d83e84d4fc5f "PDF" %}})
 
-Treatment effects I slides ([PDF]({{< baseurl >}}/resources/lec20_treat1))
+Treatment effects I slides ({{% resource_link 4d233c8e-a3b8-e193-5845-8dabc3f09b3d "PDF" %}})
 
-Treatment effects II slides ([PDF]({{< baseurl >}}/resources/lec20_treat2))
+Treatment effects II slides ({{% resource_link ceba7433-babe-695f-1888-826593a95525 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -242,7 +248,7 @@ L21-L22
 Nonlinear models in panel data
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear panel data slides ([PDF]({{< baseurl >}}/resources/lec21_22_nlpan))
+Nonlinear panel data slides ({{% resource_link f87caf10-4af1-d652-97ec-49bf3332ffb1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +260,7 @@ L23-L25
 Economic modeling and econometrics
 {{< tdclose >}}
 {{< tdopen >}}
-Demand estimation with imperfect competition slides ([PDF]({{< baseurl >}}/resources/lec23_25_deic))
+Demand estimation with imperfect competition slides ({{% resource_link 049665ab-46a6-868a-f6dc-519c1fd38d86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -274,7 +280,7 @@ Chernozhukov, Victor, and Han Hong. "[An MCMC Approach to Classical Estimation](
 
 DeGroot, Morris H., and Mark J. Schervish. [_Probability and Statistics_](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook). 3rd ed. Boston, Pearson Education, 2001.
 
-Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
+Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. ( [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
 
 Hayashi, Fumio. [_Econometrics_](http://fhayashi.fc2web.com/hayashi_econometrics.htm). Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182.
 
