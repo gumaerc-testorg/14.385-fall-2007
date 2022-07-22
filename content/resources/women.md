@@ -5,6 +5,7 @@ file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/496102fbbdb88b022
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting data file for Problem set A-2.
-

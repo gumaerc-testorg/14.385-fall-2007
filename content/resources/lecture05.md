@@ -6,6 +6,7 @@ file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/b26013900fb9492b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on two-step estimators, efficiency, one-step estimators, large sample theory, asymptotic theory, discrete choice, censoring, and sample selection.
-

@@ -5,6 +5,7 @@ file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/1e2d87062cc99f6cb
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Midterm exam from 2007.
-

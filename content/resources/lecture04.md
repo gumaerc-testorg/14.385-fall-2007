@@ -7,6 +7,7 @@ file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/6d7b3de84c384c78b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on asymptotic distribution of GMM/nonlinear instrumental variables (IV), large sample theory, asymptotic theory, discrete choice, censoring, and sample selection.
-
