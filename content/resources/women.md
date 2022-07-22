@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: Problem Set 1 from Part A of the course.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/5d8ddd087d057ccd67f13610083f9979_385a_ps1_07.pdf
-file_type: application/pdf
+description: Supporting data file for Problem set A-2.
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/496102fbbdb88b02289208a2ee8e7d9a_women.txt
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -10,12 +10,12 @@ ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: c5b9fd93-bc28-1065-43e6-80d75239c333
-resourcetype: Document
-title: 385a_ps1_07.pdf
-uid: 5d8ddd08-7d05-7ccd-67f1-3610083f9979
+resourcetype: Other
+title: women.txt
+uid: 496102fb-bdb8-8b02-2892-08a2ee8e7d9a
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-Problem Set 1 from Part A of the course.
+Supporting data file for Problem set A-2.

@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about prerequisites, texts, grading, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 23f87004-c699-6f23-c774-4533da1d7f53
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -26,7 +34,7 @@ The prerequisites include 14.382 Econometrics or permission of the instructor.
 Texts
 -----
 
-Please see the [readings]({{< baseurl >}}/pages/readings).
+Please see the {{% resource_link 718f7c1d-dae4-72ae-bdbc-cf184fdabd25 "readings" %}}.
 
 Grading
 -------
@@ -108,7 +116,7 @@ Final exam
 Calendar
 --------
 
-The following three articles are referenced in the Recitation topics. Articles that pertain to lecture topics can be found in the [readings]({{< baseurl >}}/pages/readings).
+The following three articles are referenced in the Recitation topics. Articles that pertain to lecture topics can be found in the {{% resource_link 718f7c1d-dae4-72ae-bdbc-cf184fdabd25 "readings" %}}.
 
 Ahn, H., and J. L. Powell. "Semiparametric Estimation of Censored Selection Models with a Nonparametric Selection Mechanism." _Journal of Econometrics_ 58 (1993): 3-29.
 

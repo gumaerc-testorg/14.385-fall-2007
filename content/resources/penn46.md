@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: Problem Set 1 from Part A of the course.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/5d8ddd087d057ccd67f13610083f9979_385a_ps1_07.pdf
-file_type: application/pdf
+description: Supporting data file for Problem Set A-3.
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/7749f0ce20f9683b673b6ccd67377808_penn46.ascii
+file_type: text/plain
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -10,12 +10,12 @@ ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: c5b9fd93-bc28-1065-43e6-80d75239c333
-resourcetype: Document
-title: 385a_ps1_07.pdf
-uid: 5d8ddd08-7d05-7ccd-67f1-3610083f9979
+resourcetype: Other
+title: penn46.ascii
+uid: 7749f0ce-20f9-683b-673b-6ccd67377808
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-Problem Set 1 from Part A of the course.
+Supporting data file for Problem Set A-3.
