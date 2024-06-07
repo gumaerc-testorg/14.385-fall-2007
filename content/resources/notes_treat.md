@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on treatment effects.
 file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/70826c5fa3ca798b2ffcd83e84d4fc5f_notes_treat.pdf
+file_size: 186396
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
