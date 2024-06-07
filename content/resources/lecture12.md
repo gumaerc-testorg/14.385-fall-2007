@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on bounds and partial identification, and set estimation
   and inference in moment condition models.
 file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/664aaa38a886e642327a06ba00f9b04c_lecture12.pdf
+file_size: 388177
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
