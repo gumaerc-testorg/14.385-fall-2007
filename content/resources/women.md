@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting data file for Problem set A-2.
 file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/496102fbbdb88b02289208a2ee8e7d9a_women.txt
+file_size: 152013
 file_type: text/plain
 learning_resource_types:
 - Assignments
