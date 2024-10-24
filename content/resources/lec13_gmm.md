@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on generalized method of moments (GMM) estimation and testing.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/33f528b5676b260d0badeab8b09e9b0c_lec13_gmm.pdf
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/33f528b5676b260d0badeab8b09e9b0c_lec13_gmm.pdf
 file_size: 295923
 file_type: application/pdf
 learning_resource_types:

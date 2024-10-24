@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample code for the Introduction to MCMC problem in Problem Set A-3.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/ab0916a5941527514b2170f53156708f_mcmc.txt
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/ab0916a5941527514b2170f53156708f_mcmc.txt
 file_size: 1641
 file_type: text/plain
 learning_resource_types:
