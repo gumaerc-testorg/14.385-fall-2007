@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on nonlinear models in panel data.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/f87caf104af1d65297ec49bf3332ffb1_lec21_22_nlpan.pdf
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/f87caf104af1d65297ec49bf3332ffb1_lec21_22_nlpan.pdf
 file_size: 256642
 file_type: application/pdf
 learning_resource_types:

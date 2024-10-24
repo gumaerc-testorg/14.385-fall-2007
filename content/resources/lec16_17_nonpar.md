@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on nonparametric regression.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/3710430fadc1956b5285dc54fd395475_lec16_17_nonpar.pdf
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/3710430fadc1956b5285dc54fd395475_lec16_17_nonpar.pdf
 file_size: 326915
 file_type: application/pdf
 learning_resource_types:
