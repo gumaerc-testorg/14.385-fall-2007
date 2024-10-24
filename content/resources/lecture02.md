@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on consistency for extremum estimators, large sample theory,
   asymptotic theory, discrete choice, censoring, and sample selection.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/065f6c53a14295dcd7e90cf281bf902f_lecture02.pdf
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/065f6c53a14295dcd7e90cf281bf902f_lecture02.pdf
 file_size: 3752511
 file_type: application/pdf
 learning_resource_types:

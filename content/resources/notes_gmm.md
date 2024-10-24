@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture notes on generalized method of moments (GMM): identification,
   estimation, testing, bias, and selecting moments.'
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/2d9ba545c27ee6942947ed6911e333ee_notes_gmm.pdf
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/2d9ba545c27ee6942947ed6911e333ee_notes_gmm.pdf
 file_size: 343117
 file_type: application/pdf
 learning_resource_types:
