@@ -21,7 +21,7 @@ Any of the books listed below would be a good reference for the course. They are
 
 Cameron, Adrian Colin, and Pravin K. Trivedi. [*Microeconometrics: Methods and Applications*](http://cameron.econ.ucdavis.edu/mmabook/mma.html). New York, NY: Cambridge University Press, 2005. ISBN: 9780521848053.
 
-Wooldridge, Jeffrey M. [*Econometric Analysis of Cross Section and Panel Data*](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data). 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, [2001](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=8632), ISBN: 9780262232197.)
+Wooldridge, Jeffrey M. [*Econometric Analysis of Cross Section and Panel Data*](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data). 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, [2001](https://mitpress.mit.edu/9780262232197/econometric-analysis-of-cross-section-and-panel-data/), ISBN: 9780262232197.)
 
 Wooldridge's textbook [Web site](http://www.msu.edu/~ec/faculty/wooldridge/book2.htm)
 
