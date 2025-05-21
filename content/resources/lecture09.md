@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to quantile methods, equivariance,
   GMM for quantiles, endogenous models, and empirical examples.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/e8cc91905cb23de8b95a084688b65da0_lecture09.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/e8cc91905cb23de8b95a084688b65da0_lecture09.pdf
 file_size: 568334
 file_type: application/pdf
 learning_resource_types:

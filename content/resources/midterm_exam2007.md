@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm exam from 2007.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/1e2d87062cc99f6cbeee3c1d72ab2891_midterm_exam2007.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/1e2d87062cc99f6cbeee3c1d72ab2891_midterm_exam2007.pdf
 file_size: 38834
 file_type: application/pdf
 learning_resource_types:

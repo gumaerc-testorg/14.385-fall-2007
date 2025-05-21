@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on nonparametric estimation and locally linear regression.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/40cac15c5fb98b5bf72b8cfaab90c273_local_lin_reg.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/40cac15c5fb98b5bf72b8cfaab90c273_local_lin_reg.pdf
 file_size: 119701
 file_type: application/pdf
 learning_resource_types:

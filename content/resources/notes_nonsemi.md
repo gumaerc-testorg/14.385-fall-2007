@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on nonparametric and semiparametric estimation.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/655fcef1b4192f40d80edea3c1dd85ce_notes_nonsemi.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/655fcef1b4192f40d80edea3c1dd85ce_notes_nonsemi.pdf
 file_size: 481384
 file_type: application/pdf
 learning_resource_types:
