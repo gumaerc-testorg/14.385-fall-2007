@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on treatment effects.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/4d233c8ea3b8e19358458dabc3f09b3d_lec20_treat1.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/4d233c8ea3b8e19358458dabc3f09b3d_lec20_treat1.pdf
 file_size: 140512
 file_type: application/pdf
 learning_resource_types:

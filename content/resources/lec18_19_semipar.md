@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on semiparametric models and estimators.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/e7608b3df3e2e73f60197456243c4f4c_lec18_19_semipar.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/e7608b3df3e2e73f60197456243c4f4c_lec18_19_semipar.pdf
 file_size: 151881
 file_type: application/pdf
 learning_resource_types:

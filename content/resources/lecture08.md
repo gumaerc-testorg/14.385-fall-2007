@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to quantile methods, quantile regression
   (QR), and distributional methods.
-file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/ff4cecb83558c6e1cf44575ff9f9a7f1_lecture08.pdf
+file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/ff4cecb83558c6e1cf44575ff9f9a7f1_lecture08.pdf
 file_size: 428602
 file_type: application/pdf
 learning_resource_types:
