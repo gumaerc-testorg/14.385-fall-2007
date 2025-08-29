@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting data file for Problem Set A-3.
-file: /courses/14-385-nonlinear-econometric-analysis-fall-2007/e49d1d2f66869b839e982100e70b167b_engle.csv
+file: /ol-ocw-studio-app/courses/14-385-nonlinear-econometric-analysis-fall-2007/e49d1d2f66869b839e982100e70b167b_engle.csv
 file_size: 6159
 file_type: text/plain
 learning_resource_types:
