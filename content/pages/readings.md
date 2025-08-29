@@ -107,8 +107,6 @@ Cameron and Trivedi (2005), chapters 14-16
 
 Andrews, Donald W. K. "[Empirical Process Methods in Econometrics](http://dx.doi.org/10.1016/S1573-4412%2805%2980006-6)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 37, pp. 2247-2294. ISBN: 9780444887665.
 
-Knight, Keith. "[Epi-Convergence in Distribution and Stochastic Equi-semicontinuity](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.5686)."
-
 Koenker, Roger, and Jungmo Yoon. "Parametric Links for Binary Choice Models." Working Paper, Department of Economics, University of Illinois, Urbana-Champaign, 2006. ([PDF](http://www.econ.uiuc.edu/~roger/research/links/links.pdf))
 
 Pollard, David. "Asymptotics for Least Absolute Deviation Regression Estimators." *Econometric Theory* 7, no. 2 (June 1991): 186-199.
