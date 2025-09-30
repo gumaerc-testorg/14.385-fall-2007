@@ -120,7 +120,7 @@ The following three articles are referenced in the Recitation topics. Articles t
 
 Ahn, H., and J. L. Powell. "Semiparametric Estimation of Censored Selection Models with a Nonparametric Selection Mechanism." _Journal of Econometrics_ 58 (1993): 3-29.
 
-Autor, D., L. F. Katz, and M. S. Kearney. "[Rising Wage Inequality: The Role of Composition and Prices](http://www.nber.org/papers/w11628)." National Bureau of Economic Research (NBER) Working Paper No. 11628 (August 2005): 1-65.
+Autor, D., L. F. Katz, and M. S. Kearney. "{{% resource_link "31f82b9c-e67a-4737-aa69-784e4c8f2220" "Rising Wage Inequality: The Role of Composition and Prices" %}}." National Bureau of Economic Research (NBER) Working Paper No. 11628 (August 2005): 1-65.
 
 Chernozhukov, V., and H. Hong. "Three-step Censored Quantile Regression and Extramarital Affairs." _Journal of the American Statistical Association_ 97, no. 459 (September 2002): 872-882.
 
