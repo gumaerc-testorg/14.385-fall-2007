@@ -19,13 +19,13 @@ video_metadata:
 
 Any of the books listed below would be a good reference for the course. They are listed roughly by their relative position in the applied to theoretical continuum. The last two are essential for anyone who plans to specialize in econometric theory.
 
-Cameron, Adrian Colin, and Pravin K. Trivedi. {{% resource_link "41953a4d-752b-4728-ab91-2b454bfdf5cd" "*Microeconometrics: Methods and Applications*" %}}. New York, NY: Cambridge University Press, 2005. ISBN: 9780521848053.
+Cameron, Adrian Colin, and Pravin K. Trivedi. [*Microeconometrics: Methods and Applications*](http://cameron.econ.ucdavis.edu/mmabook/mma.html). New York, NY: Cambridge University Press, 2005. ISBN: 9780521848053.
 
-Wooldridge, Jeffrey M. {{% resource_link "4dc2ce3a-b202-43e3-9f5b-f9f3d4cc6094" "*Econometric Analysis of Cross Section and Panel Data*" %}}. 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, {{% resource_link "a34b2d78-0bfd-40fd-b172-81b13fb0f5c6" "2001" %}}, ISBN: 9780262232197.)
+Wooldridge, Jeffrey M. [*Econometric Analysis of Cross Section and Panel Data*](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data). 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, [2001](https://mitpress.mit.edu/9780262232197/econometric-analysis-of-cross-section-and-panel-data/), ISBN: 9780262232197.)
 
-Wooldridge's textbook {{% resource_link "85381d7e-07c0-4084-93b2-52bd2fd861bb" "Web site" %}}
+Wooldridge's textbook [Web site](http://www.msu.edu/~ec/faculty/wooldridge/book2.htm)
 
-Newey, Whitney K., and Daniel McFadden. "{{% resource_link "2d9a8aec-2fd1-40d9-86c7-5d3ab1450c7a" "Large Sample Estimation and Hypothesis Testing" %}}." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
+Newey, Whitney K., and Daniel McFadden. "[Large Sample Estimation and Hypothesis Testing](http://dx.doi.org/10.1016/S1573-4412%2805%2980005-4)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
 
 Amemiya, Takeshi. *Advanced Econometrics*. Cambridge, MA: Harvard University Press, 1985. ISBN: 9780674005600.
 
@@ -45,25 +45,25 @@ McFadden, Daniel, and Robert Engle. *Handbook of Econometrics*. Vol. 4. Amsterda
 
 Heckman, James J., and Edward E. Leamer. *Handbook of Econometrics*. Vol. 5. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001. ISBN: 9780444823403.
 
-Ruud, Paul A. {{% resource_link "788c1500-a630-48b8-8765-56358e3f1ca3" "*An Introduction to Classical Econometric Theory*" %}}. New York, NY: Oxford University Press, 2000. ISBN: 9780195111644.
+Ruud, Paul A. [*An Introduction to Classical Econometric Theory*](http://ukcatalogue.oup.com/product/9780195111644.do). New York, NY: Oxford University Press, 2000. ISBN: 9780195111644.
 
 A useful introduction to Bayesian statistics is provided by:
 
-DeGroot, Morris H., and Mark J. Schervish. {{% resource_link "4fb01140-9c72-405c-8bd5-f03879c9b178" "*Probability and Statistics*" %}}. 3rd ed. Boston, MA: Addison Wesley, 2001.
+DeGroot, Morris H., and Mark J. Schervish. [*Probability and Statistics*](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook). 3rd ed. Boston, MA: Addison Wesley, 2001.
 
 A nice text with a GMM-centered approach:
 
-Hayashi, Fumio. {{% resource_link "8bde5c00-506a-4d85-94fb-48bb98673e7b" "*Econometrics*" %}}. Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182.
+Hayashi, Fumio. [*Econometrics*](http://fhayashi.fc2web.com/hayashi_econometrics.htm). Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182.
 
 ### Part B – Newey
 
-Text: Wooldridge, Jeffrey M. {{% resource_link "d699fa68-0197-40b8-abd5-9beeca5ab92a" "*Econometric Analysis of Cross Section and Panel Data*" %}}*.* 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, {{% resource_link "1def1511-2bd3-4a28-922f-1833c8ed5df2" "2001" %}}, ISBN: 9780262232197.)
+Text: Wooldridge, Jeffrey M. [*Econometric Analysis of Cross Section and Panel Data*](http://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data)*.* 2nd ed. Cambridge, MA: MIT Press, 2008. ISBN: 9780262232586. ( Previous edition, [2001](https://mitpress.mit.edu/9780262232586/econometric-analysis-of-cross-section-and-panel-data/), ISBN: 9780262232197.)
 
-Wooldridge textbook {{% resource_link "85381d7e-07c0-4084-93b2-52bd2fd861bb" "Web site" %}}
+Wooldridge textbook [Web site](http://www.msu.edu/~ec/faculty/wooldridge/book2.htm)
 
 ### Supplementary Texts
 
-Ruud, Paul A. {{% resource_link "788c1500-a630-48b8-8765-56358e3f1ca3" "*An Introduction to Classical Econometric Theory*" %}}. New York, NY: Oxford University Press, 2000. ISBN: 9780195111644.
+Ruud, Paul A. [*An Introduction to Classical Econometric Theory*](http://ukcatalogue.oup.com/product/9780195111644.do). New York, NY: Oxford University Press, 2000. ISBN: 9780195111644.
 
 Grilliches, Zvi, and Michael D. Intriligator. *Handbook of Econometrics*. Amsterdam, The Netherlands: North-Holland Publishing Co., 1994. ISBN: 9780444861887 (set).
 
@@ -105,9 +105,9 @@ Wooldridge (2001), chapters 15-17
 
 Cameron and Trivedi (2005), chapters 14-16
 
-Andrews, Donald W. K. "{{% resource_link "2136cc60-0706-420d-a717-28868b388eff" "Empirical Process Methods in Econometrics" %}}." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 37, pp. 2247-2294. ISBN: 9780444887665.
+Andrews, Donald W. K. "[Empirical Process Methods in Econometrics](http://dx.doi.org/10.1016/S1573-4412%2805%2980006-6)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 37, pp. 2247-2294. ISBN: 9780444887665.
 
-Koenker, Roger, and Jungmo Yoon. "Parametric Links for Binary Choice Models." Working Paper, Department of Economics, University of Illinois, Urbana-Champaign, 2006. ({{% resource_link "2f474780-4048-4563-999a-88458fd99ac0" "PDF" %}})
+Koenker, Roger, and Jungmo Yoon. "Parametric Links for Binary Choice Models." Working Paper, Department of Economics, University of Illinois, Urbana-Champaign, 2006. ([PDF](http://www.econ.uiuc.edu/~roger/research/links/links.pdf))
 
 Pollard, David. "Asymptotics for Least Absolute Deviation Regression Estimators." *Econometric Theory* 7, no. 2 (June 1991): 186-199.
 
@@ -117,7 +117,7 @@ L6-L7
 Bootstrap, subsampling, and finite-sample methods
 {{< tdclose >}}{{< tdopen >}}
 
-Horowitz, Joel L. "{{% resource_link "6405cf4e-3be5-47c1-bebf-30d0e0a98e4b" "The Bootstrap" %}}." In *Handbook of Econometrics*. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 52, pp. 3159-3228. ISBN: 9780444823403.
+Horowitz, Joel L. "[The Bootstrap](http://dx.doi.org/10.1016/S1573-4412%2801%2905005-X)." In *Handbook of Econometrics*. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 52, pp. 3159-3228. ISBN: 9780444823403.
 
 Cameron and Trivedi (2005), chapter 11
 
@@ -131,7 +131,7 @@ Koenker, Roger, and Kevin F. Hallock. "Quantile Regression." *The Journal of Eco
 
 Buchinsky, Moshe. "Changes in the U.S. Wage Structure 1963-1987: Application of Quantile Regression." *Econometrica* 62, no. 2 (March 1994): 405-458.
 
-James L. Powell. "{{% resource_link "bfc3e696-a27e-4d7d-b2b4-33487a693603" "Least Absolute Deviations Estimation for the Censored Regression Model" %}}." *Journal of Econometrics* 25, no. 3 (July 1984): 303-325.
+James L. Powell. "[Least Absolute Deviations Estimation for the Censored Regression Model](http://dx.doi.org/10.1016/0304-4076%2884%2990004-6)." *Journal of Econometrics* 25, no. 3 (July 1984): 303-325.
 
 Wooldridge (2001), chapters 19-20
 
@@ -147,14 +147,14 @@ DeGroot and Schervish (2002), chapters 6-7
 
 Cameron and Trivedi (2005), chapters 12-13
 
-Chernozhukov, Victor, and Han Hong. "{{% resource_link "66af1dce-470d-408d-a377-d6323f2e2253" "An MCMC Approach to Classical Estimation" %}}." *Journal of Econometrics* 115, no. 2 (August 2003): 293-346.
+Chernozhukov, Victor, and Han Hong. "[An MCMC Approach to Classical Estimation](http://dx.doi.org/10.1016/S0304-4076%2803%2900100-3)." *Journal of Econometrics* 115, no. 2 (August 2003): 293-346.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L12
 {{< tdclose >}}{{< tdopen >}}
 Bounds and partial identification
 {{< tdclose >}}{{< tdopen >}}
-Haile, Philip A., and Elie Tamer. "{{% resource_link "0564c2a2-a739-4cf6-94b2-687e57589cfb" "Inference with an Incomplete Model of English Auctions" %}}." *Journal of Political Economy* 111, no. 1 (February 2003): 1-51.
+Haile, Philip A., and Elie Tamer. "[Inference with an Incomplete Model of English Auctions](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=241133)." *Journal of Political Economy* 111, no. 1 (February 2003): 1-51.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Part B – Newey
@@ -173,7 +173,7 @@ L13-L14
 GMM: identification, estimation, testing, bias, selecting moments
 {{< tdclose >}}{{< tdopen >}}
 
-\*Newey, Whitney K., and Daniel McFadden. "{{% resource_link "2d9a8aec-2fd1-40d9-86c7-5d3ab1450c7a" "Large Sample Estimation and Hypothesis Testing" %}}." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
+\*Newey, Whitney K., and Daniel McFadden. "[Large Sample Estimation and Hypothesis Testing](http://dx.doi.org/10.1016/S1573-4412%2805%2980005-4)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
 
 Hansen, L. P. "Large Sample Properties of Generalized Method of Moments Estimators." *Econometrica* 50 (1982): 1029-1054.
 
@@ -223,7 +223,7 @@ Newey, W. K., and F. Windmeijer. "GMM Estimation with Many Weak Moment Condition
 
 \*Hausman, J. A., W. K. Newey, T. Woutersen, J. Chao, and N. Swanson. "Instrumental Variable Estimation with Heteroskedasticity and Many Instruments." Working Paper, Department of Economics, Massachusetts Institute of Technology, 2007.
 
-\*Imbens, Guido, and Jeffrey Wooldridge. "{{% resource_link "2963413b-b1ac-4ae3-a8a2-ec18ebcc2842" "Weak Instruments and Many Instruments" %}}." Lecture 13, August 1, 2007, Summer Institute 2007: What's New in Econometrics, National Bureau of Economic Research, Cambridge, MA, July 30 - August 1, 2007.
+\*Imbens, Guido, and Jeffrey Wooldridge. "[Weak Instruments and Many Instruments](http://www.nber.org/minicourse3.html)." Lecture 13, August 1, 2007, Summer Institute 2007: What's New in Econometrics, National Bureau of Economic Research, Cambridge, MA, July 30 - August 1, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L16-L17
@@ -231,11 +231,11 @@ L16-L17
 Nonparametric estimation
 {{< tdclose >}}{{< tdopen >}}
 
-\*Hardle, W., and O. Linton. "{{% resource_link "a01f4f78-332e-4961-9cfc-2a171e127928" "Applied Nonparametric Methods" %}}." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 38, pp. 2296-2239. ISBN: 9780444887665.
+\*Hardle, W., and O. Linton. "[Applied Nonparametric Methods](http://dx.doi.org/10.1016/S1573-4412%2805%2980007-8)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 38, pp. 2296-2239. ISBN: 9780444887665.
 
 \*Deaton, A. "Rice Prices and Income Distribution in Rural Thailand: A Nonparametric Analysis." *Economic Journal* 99, no. 395 supplement (1989): 1-37.
 
-\*Imbens, Guido, and Jeffrey Wooldridge. "{{% resource_link "2963413b-b1ac-4ae3-a8a2-ec18ebcc2842" "Regression Discontinuity Designs" %}}." Lecture 3, July 30, 2007, Summer Institute 2007: What's New in Econometrics, National Bureau of Economic Research, Cambridge, MA, July 30 - August 1, 2007.
+\*Imbens, Guido, and Jeffrey Wooldridge. "[Regression Discontinuity Designs](http://www.nber.org/minicourse3.html)." Lecture 3, July 30, 2007, Summer Institute 2007: What's New in Econometrics, National Bureau of Economic Research, Cambridge, MA, July 30 - August 1, 2007.
 
 Newey, W. K. "Kernel Estimation of Partial Means and a General Variance Estimator." *Econometric Theory* 10 (1994): 233-253.
 
@@ -247,13 +247,13 @@ L18-L19
 Semiparametric estimation
 {{< tdclose >}}{{< tdopen >}}
 
-Powell, James. "{{% resource_link "1b842423-4f0b-4448-9987-ee0284c63510" "Estimation of Semiparametric Models" %}}." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 41, pp. 2443-2521. ISBN: 9780444887665.
+Powell, James. "[Estimation of Semiparametric Models](http://dx.doi.org/10.1016/S1573-4412%2805%2980010-8)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: North-Holland Publishing Co., 1999, chapter 41, pp. 2443-2521. ISBN: 9780444887665.
 
 Hausman, J., and W. K. Newey. "Nonparametric Estimation of Exact Consumer Surplus and Deadweight Loss." *Econometrica* 63, no. 6 (November 1995): 1445-1476.
 
 Newey, W. K. "Asymptotic Variance of Semiparametric Estimators." *Econometrica* 62 (1994): 1349-1382.
 
-Newey, Whitney K., and Daniel McFadden. "{{% resource_link "2d9a8aec-2fd1-40d9-86c7-5d3ab1450c7a" "Large Sample Estimation and Hypothesis Testing" %}}." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
+Newey, Whitney K., and Daniel McFadden. "[Large Sample Estimation and Hypothesis Testing](http://dx.doi.org/10.1016/S1573-4412%2805%2980005-4)." In *Handbook of Econometrics*. Vol. 4. Edited by Daniel McFadden and Robert Engle. Amsterdam, The Netherlands: Elsevier, North-Holland, 1999, chapter 36, pp. 2113-2245. ISBN: 9780444887665.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L20
@@ -275,15 +275,15 @@ Nonlinear models in panel data
 
 Wooldridge, section 13.9
 
-Chamberlain, Gary. "{{% resource_link "3756fcf9-9617-40b0-a703-8f7ed329cbc4" "Panel Data" %}}." In *Handbook of Econometrics*. Vol. 2. Edited by Zvi Grilliches and Michael D. Intriligator. Amsterdam, The Netherlands: North-Holland Publishing Co., 1984, chapter 22, pp. 1247-1318. ISBN: 9780444861863.
+Chamberlain, Gary. "[Panel Data](http://dx.doi.org/10.1016/S1573-4412%2884%2902014-6)." In *Handbook of Econometrics*. Vol. 2. Edited by Zvi Grilliches and Michael D. Intriligator. Amsterdam, The Netherlands: North-Holland Publishing Co., 1984, chapter 22, pp. 1247-1318. ISBN: 9780444861863.
 
 Lancaster, T. "The Incidental Parameter Problem Since 1948." *Journal of Econometrics* (2000): 391-413.
 
-Arellano, Manuel, and Bo Honoré. "{{% resource_link "3af88261-4625-462f-9aa8-9f471c1e87cb" "Panel Data Models: Some Recent Developments" %}}." In *Handbook of Econometrics*. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 53, pp. 3229-3296. ISBN: 9780444823403.
+Arellano, Manuel, and Bo Honoré. "[Panel Data Models: Some Recent Developments](http://dx.doi.org/10.1016/S1573-4412%2801%2905006-1)." In *Handbook of Econometrics*. Vol. 5. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2001, chapter 53, pp. 3229-3296. ISBN: 9780444823403.
 
 \*Hahn, J., and W. Newey. "Jacknife and Analytical Bias Reduction for Nonlinear Panel Data Models." *Econometrica* 72 (2004): 1295-1319.
 
-Honoré, B.E., and E. Tamer. "Bounds on Parameters in Dynamic Discrete Choice Models." *Econometrica* 74, no. 3 (May 2006): 611-629. ({{% resource_link "13c9abfb-beee-4ff7-817e-5e2f31cbcaab" "PDF" %}})
+Honoré, B.E., and E. Tamer. "Bounds on Parameters in Dynamic Discrete Choice Models." *Econometrica* 74, no. 3 (May 2006): 611-629. ([PDF](http://www.princeton.edu/~honore/papers/panel_bounds.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L23-L25
@@ -291,7 +291,7 @@ L23-L25
 Economic modeling and econometrics
 {{< tdclose >}}{{< tdopen >}}
 
-\* Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." *Journal of Political Economy* 111, no. 1 (February 2003): 1-51. ( {{% resource_link "d8688bcf-5dda-4669-bb64-735752283d1a" "PDF" %}})
+\* Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." *Journal of Political Economy* 111, no. 1 (February 2003): 1-51. ( [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
 
 \*Berry, S., J. Levinsohn, and A. Pakes. "Automobile Prices in Market Equilibrium." *Econometrica* 63 (1995): 841-890.
 
@@ -299,7 +299,7 @@ Nevo, A. "Measuring Market Power in the Ready to Eat Breakfast Cereal Industry."
 
 Hausman, J. A., and G. Leonard. "The Competitive Effects of a New Product Introduction: A Case Study." *Journal of Industrial Economics* 50, no. 3 (2002): 237-263.
 
-Ackerberg, Daniel, C. Lanier Benkard, Steven Berry, and Ariel Pakes. "Econometric Tools for Analyzing Market Outcomes." In *Handbook of Econometrics*. Vol. 6. Part 1. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2005, chapter 63, pp. 4171-4276. ISBN: 9780444506313. ({{% resource_link "1e3db27e-00bb-4540-9e00-26227a311b27" "PDF" %}})
+Ackerberg, Daniel, C. Lanier Benkard, Steven Berry, and Ariel Pakes. "Econometric Tools for Analyzing Market Outcomes." In *Handbook of Econometrics*. Vol. 6. Part 1. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2005, chapter 63, pp. 4171-4276. ISBN: 9780444506313. ([PDF](https://scholar.harvard.edu/files/pakes/files/tools8l.pdf))
 
 Blomquist, S., and W. K. Newey. "Nonparametric Estimation with Nonlinear Budget Sets." *Econometrica* 70 (2002): 2455-2480.
 
